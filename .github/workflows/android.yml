@@ -1,4 +1,10 @@
-name: Android CI
+[![Android CI](https://github.com/PojavLauncherTeam/PojavLauncher/actions/workflows/android.yml/badge.svg?event=branch_protection_rule)](https://github.com/PojavLauncherTeam/PojavLauncher/actions/workflows/android.yml)números
+
+
+
+número
+
+: Android CI
 
 on:
   pull_request:
